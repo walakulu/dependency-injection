@@ -1,3 +1,3 @@
 # dependency-injection
 
-This is the example simple dependency injection scenario example for my personal blog.
+This is the example1 of spring-dependency-injection process scenario for my personal blog.
